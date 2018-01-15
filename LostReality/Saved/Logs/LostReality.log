@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿Log file open, 01/15/18 20:49:55
 =======
 ﻿Log file open, 01/15/18 17:22:09
@@ -7,6 +8,9 @@
 =======
 ﻿Log file open, 01/15/18 18:28:27
 >>>>>>> parent of faf781c... 0.0.0.0.0.0.0.0.4(beta)
+=======
+﻿Log file open, 01/15/18 17:22:09
+>>>>>>> parent of ac017fb... 0.0.0.0.0.0.0.0.3
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
@@ -19,6 +23,7 @@ LogInit: Display: Running engine for game: LostReality
 LogPlatformFile: Not using cached read wrapper
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogInit: Display: RandInit(1852599576) SRandInit(1852599576).
 =======
 LogInit: Display: RandInit(-791128021) SRandInit(-791128021).
@@ -26,10 +31,14 @@ LogInit: Display: RandInit(-791128021) SRandInit(-791128021).
 =======
 LogInit: Display: RandInit(-498043322) SRandInit(-498043322).
 >>>>>>> parent of faf781c... 0.0.0.0.0.0.0.0.4(beta)
+=======
+LogInit: Display: RandInit(-791128021) SRandInit(-791128021).
+>>>>>>> parent of ac017fb... 0.0.0.0.0.0.0.0.3
 LogInit: Read version file with build ID '3709383'
 LogInit: Overriding engine version to CL 3794801, compatible CL 3709383
 LogInit: Registered custom module enumerator with build ID '3709383'
 LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 LogStats: Stats thread started at 0.162785
@@ -39,6 +48,9 @@ LogStats: Stats thread started at 0.161743
 =======
 LogStats: Stats thread started at 0.166019
 >>>>>>> parent of faf781c... 0.0.0.0.0.0.0.0.4(beta)
+=======
+LogStats: Stats thread started at 0.161743
+>>>>>>> parent of ac017fb... 0.0.0.0.0.0.0.0.3
 LogD3D11RHI: Aftermath initialized
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
@@ -220,6 +232,7 @@ LogInit: Base directory: V:/UE_4.18/Engine/Binaries/Win64/
 LogInit: Installed Engine Build: 1
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 [2018.01.15-17.49.57:464][  0]LogInit: Selected Device Profile: [Windows]
@@ -697,6 +710,8 @@ LogInit: Object subsystem initialized
 [2018.01.15-17.50.22:700][716]LogExit: Exiting.
 [2018.01.15-17.50.22:708][716]Log file closed, 01/15/18 20:50:22
 =======
+=======
+>>>>>>> parent of ac017fb... 0.0.0.0.0.0.0.0.3
 [2018.01.15-14.22.10:765][  0]LogInit: Selected Device Profile: [Windows]
 [2018.01.15-14.22.10:765][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
 [2018.01.15-14.22.10:774][  0]LogInit: Computer: SVOMPYS-PC
@@ -8436,6 +8451,7 @@ Exception rethrown at [0]:
 [2018.01.15-15.09.04:043][352]LogModuleManager: Shutting down and abandoning module PakFile (2)
 [2018.01.15-15.09.04:075][352]LogExit: Exiting.
 [2018.01.15-15.09.04:083][352]Log file closed, 01/15/18 18:09:04
+<<<<<<< HEAD
 >>>>>>> parent of ac017fb... 0.0.0.0.0.0.0.0.3
 =======
 [2018.01.15-15.28.28:688][  0]LogInit: Selected Device Profile: [Windows]
@@ -28785,3 +28801,5 @@ Exception rethrown at [0]:
 [2018.01.15-16.05.56:524][735]LogExit: Exiting.
 [2018.01.15-16.05.56:532][735]Log file closed, 01/15/18 19:05:56
 >>>>>>> parent of faf781c... 0.0.0.0.0.0.0.0.4(beta)
+=======
+>>>>>>> parent of ac017fb... 0.0.0.0.0.0.0.0.3
