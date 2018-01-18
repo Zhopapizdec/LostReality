@@ -1,0 +1,1540 @@
+﻿Log file open, 01/19/18 02:10:40
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: LostReality
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1853356983) SRandInit(1853356983).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogInit: Warning: Passing commandline switches using / instead of - has been deprecated and will be removed in future versions of Unreal Engine.
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.230124
+LogD3D11RHI: Aftermath initialized
+LogInit: Warning: Passing commandline switches using / instead of - has been deprecated and will be removed in future versions of Unreal Engine.
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap -game -PIEVIACONSOLE -ResX=1280 -ResY=720  -Multiprocess -messaging -SessionName="Play in Standalone Game" -windowed 
+LogInit: Base directory: C:/Unreal/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.01.18-23.10.42:624][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.18-23.10.42:624][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.01.18-23.10.42:659][  0]LogInit: Computer: Я-ПК
+[2018.01.18-23.10.42:659][  0]LogInit: User: Я
+[2018.01.18-23.10.42:659][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.01.18-23.10.42:659][  0]LogInit: High frequency timer resolution =2.241083 MHz
+[2018.01.18-23.10.42:659][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2018.01.18-23.10.42:659][  0]LogMemory: Platform Memory Stats for Windows
+[2018.01.18-23.10.42:659][  0]LogMemory: Process Physical Memory: 271.27 MB used, 271.27 MB peak
+[2018.01.18-23.10.42:659][  0]LogMemory: Process Virtual Memory: 270.45 MB used, 270.45 MB peak
+[2018.01.18-23.10.42:660][  0]LogMemory: Physical Memory: 6034.77 MB used,  2134.62 MB free, 8169.39 MB total
+[2018.01.18-23.10.42:660][  0]LogMemory: Virtual Memory: 608.18 MB used,  2134.62 MB free, 8388608.00 MB total
+[2018.01.18-23.10.42:889][  0]LogInit: Using OS detected language (ru-RU).
+[2018.01.18-23.10.42:889][  0]LogInit: Using OS detected locale (ru-RU).
+[2018.01.18-23.10.42:892][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the language.
+[2018.01.18-23.10.42:892][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the locale.
+[2018.01.18-23.10.43:673][  0]LogD3D11RHI: D3D11 adapters:
+[2018.01.18-23.10.43:798][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GT 555M' (Feature Level 11_0)
+[2018.01.18-23.10.43:798][  0]LogD3D11RHI:       979/0/3071 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.01.18-23.10.43:798][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.01.18-23.10.43:804][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.01.18-23.10.43:804][  0]LogD3D11RHI:     GPU DeviceId: 0xdcd (for the marketing name, search the web for "GPU Device Id")
+[2018.01.18-23.10.43:804][  0]LogWindows: EnumDisplayDevices:
+[2018.01.18-23.10.43:804][  0]LogWindows:    0. 'NVIDIA GeForce GT 555M' (P:1 D:1)
+[2018.01.18-23.10.43:804][  0]LogWindows:    1. 'NVIDIA GeForce GT 555M' (P:0 D:0)
+[2018.01.18-23.10.43:804][  0]LogWindows:    2. 'RDPDD Chained DD' (P:0 D:0)
+[2018.01.18-23.10.43:805][  0]LogWindows:    3. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2018.01.18-23.10.43:805][  0]LogWindows:    4. 'RDP Reflector Display Driver' (P:0 D:0)
+[2018.01.18-23.10.43:805][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:2 
+[2018.01.18-23.10.43:805][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GT 555M
+[2018.01.18-23.10.43:805][  0]LogD3D11RHI:   Driver Version: 355.82 (internal:10.18.13.5582, unified:355.82)
+[2018.01.18-23.10.43:805][  0]LogD3D11RHI:      Driver Date: 8-25-2015
+[2018.01.18-23.10.43:805][  0]LogRHI: Texture pool is 685 MB (70% of 979 MB)
+[2018.01.18-23.10.43:830][  0]LogD3D11RHI: Display: Timestamp queries are currently disabled on this hardware due to instability. Realtime GPU stats will not be available. You can override this behaviour by setting r.NVIDIATimestampWorkaround to 0
+[2018.01.18-23.10.43:830][  0]LogD3D11RHI: NvAPI_D3D_GetCurrentSLIState failed: 0xfffffff7
+[2018.01.18-23.10.43:830][  0]LogD3D11RHI: Async texture creation enabled
+[2018.01.18-23.10.43:869][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 6)
+[2018.01.18-23.10.43:871][  0]LogShaderCompilers: Guid format shader working directory is 16 characters bigger than the processId version (P:/LostReality/LostReality/Intermediate/Shaders/WorkingDirectory/1860/).
+[2018.01.18-23.10.43:871][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Я/AppData/Local/Temp/UnrealShaderWorkingDir/CCC864D148D68DF5A6122382248774B3/'.
+[2018.01.18-23.10.43:871][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.01.18-23.10.45:713][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.01.18-23.10.45:798][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.01.18-23.10.45:869][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.01.18-23.10.45:938][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.01.18-23.10.45:939][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.01.18-23.10.46:609][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.01.18-23.10.48:946][  0]LogDerivedDataCache: Loaded boot cache 2.34s 78MB C:/Users/Я/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.18-23.10.48:946][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Я/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.01.18-23.10.48:946][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file P:/LostReality/LostReality/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.01.18-23.10.48:946][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.01.18-23.10.48:946][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file P:/LostReality/LostReality/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.01.18-23.10.48:946][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.01.18-23.10.48:979][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.01.18-23.10.48:991][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Я/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.01.18-23.10.49:012][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.01.18-23.10.49:034][  0]LogSlate: Using Freetype 2.6.0
+[2018.01.18-23.10.49:035][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.18-23.10.49:035][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.18-23.10.49:577][  0]LogAssetRegistry: FAssetRegistry took 0.0071 seconds to start up
+[2018.01.18-23.10.49:591][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 1 prioritized culture(s) in 0.013536 seconds
+[2018.01.18-23.10.49:788][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.18-23.10.50:289][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.01.18-23.10.50:339][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.01.18-23.10.50:339][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.01.18-23.10.50:339][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.01.18-23.10.50:339][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.01.18-23.10.50:339][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.01.18-23.10.50:367][  0]LogNetVersion: LostReality , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2839468010)
+[2018.01.18-23.10.50:723][  0]LogInit: Warning: Passing commandline switches using / instead of - has been deprecated and will be removed in future versions of Unreal Engine.
+[2018.01.18-23.10.50:723][  0]LogInit: Warning: Passing commandline switches using / instead of - has been deprecated and will be removed in future versions of Unreal Engine.
+[2018.01.18-23.10.50:723][  0]LogInit: Warning: Passing commandline switches using / instead of - has been deprecated and will be removed in future versions of Unreal Engine.
+[2018.01.18-23.10.51:187][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.01.18-23.10.52:953][  0]LogMoviePlayer: Initializing movie player
+[2018.01.18-23.10.53:403][  0]LogCollectionManager: Loaded 0 collections in 0.001554 seconds
+[2018.01.18-23.10.53:462][  0]LogFileCache: Scanning file cache for directory 'P:/LostReality/LostReality/Saved/Collections/' took 0.01s
+[2018.01.18-23.10.53:462][  0]LogFileCache: Scanning file cache for directory 'P:/LostReality/LostReality/Content/Developers/Я/Collections/' took 0.01s
+[2018.01.18-23.10.53:462][  0]LogFileCache: Scanning file cache for directory 'P:/LostReality/LostReality/Content/Collections/' took 0.01s
+[2018.01.18-23.10.53:462][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.01.18-23.10.53:462][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000151 seconds (updated 0 objects)
+[2018.01.18-23.10.53:746][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.01.18-23.10.53:802][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.01.18-23.10.54:408][  0]LogInit: Warning: Passing commandline switches using / instead of - has been deprecated and will be removed in future versions of Unreal Engine.
+[2018.01.18-23.10.54:409][  0]SourceControl: Source control is disabled
+[2018.01.18-23.10.54:409][  0]SourceControl: Source control is disabled
+[2018.01.18-23.10.54:468][  0]SourceControl: Source control is disabled
+[2018.01.18-23.10.54:925][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.01.18-23.10.55:240][  0]LogOcInput: OculusInput pre-init called
+[2018.01.18-23.10.55:376][  0]LogUObjectArray: 38923 objects as part of root set at end of initial load.
+[2018.01.18-23.10.55:376][  0]LogUObjectAllocator: 8349192 out of 0 bytes used by permanent object pool.
+[2018.01.18-23.10.55:376][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.01.18-23.10.55:543][  0]LogEngine: Initializing Engine...
+[2018.01.18-23.10.55:546][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.01.18-23.10.55:836][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.01.18-23.10.55:837][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.01.18-23.10.55:850][  0]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.18-23.10.55:916][  0]LogInit: FAudioDevice initialized.
+[2018.01.18-23.10.55:982][  0]LogInit: Texture streaming: Enabled
+[2018.01.18-23.10.56:044][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.01.18-23.10.56:811][  0]LogInit: Warning: Passing commandline switches using / instead of - has been deprecated and will be removed in future versions of Unreal Engine.
+[2018.01.18-23.10.56:881][  0]LogInit: Display: Game Engine Initialized.
+[2018.01.18-23.10.56:881][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.01.18-23.10.57:160][  0]LogInit: Display: Starting Game.
+[2018.01.18-23.10.57:161][  0]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap?Name=Player
+[2018.01.18-23.10.57:161][  0]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap?Name=Player
+[2018.01.18-23.10.58:336][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.01.18-23.10.58:340][  0]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.18-23.10.58:374][  0]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.01.19-02.10.58
+[2018.01.18-23.10.58:375][  0]LogWorld: Bringing up level for play took: 0.021790
+[2018.01.18-23.10.58:378][  0]LogLoad: Took 1.217080 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2018.01.18-23.10.58:658][  0]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2018.01.18-23.10.58:658][  0]LogLoad: (Engine Initialization) Total time: 19.08 seconds
+[2018.01.18-23.10.58:658][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.01.18-23.10.58:658][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.01.18-23.10.58:726][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.01.18-23.10.59:905][  1]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.10.59:912][  2]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.10.59:928][  3]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.10.59:957][  4]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.00:000][  5]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.00:017][  6]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.00:041][  7]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.00:096][  8]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.00:116][  9]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.00:133][ 10]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.00:161][ 11]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.00:191][ 12]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.00:220][ 13]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.00:250][ 14]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.00:276][ 15]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.00:303][ 16]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.00:332][ 17]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.00:361][ 18]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.00:390][ 19]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.00:420][ 20]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.00:447][ 21]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.00:475][ 22]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.00:504][ 23]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.00:533][ 24]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.00:564][ 25]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.00:594][ 26]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.00:624][ 27]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.00:655][ 28]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.00:685][ 29]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.00:716][ 30]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.00:746][ 31]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.00:776][ 32]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.00:806][ 33]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.00:835][ 34]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.00:862][ 35]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.00:891][ 36]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.00:919][ 37]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.00:945][ 38]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.00:971][ 39]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.00:997][ 40]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.01:025][ 41]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.01:054][ 42]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.01:082][ 43]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.01:111][ 44]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.01:140][ 45]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.01:170][ 46]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.01:200][ 47]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.01:226][ 48]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.01:256][ 49]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.01:282][ 50]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.01:310][ 51]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.01:339][ 52]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.01:365][ 53]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.01:392][ 54]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.01:420][ 55]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.01:446][ 56]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.01:473][ 57]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.01:500][ 58]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.01:527][ 59]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.01:554][ 60]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.01:580][ 61]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.01:610][ 62]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.01:635][ 63]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.01:661][ 64]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.01:690][ 65]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.01:716][ 66]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.01:741][ 67]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.01:770][ 68]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.01:794][ 69]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.01:820][ 70]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.01:849][ 71]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.01:874][ 72]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.01:900][ 73]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.01:929][ 74]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.01:954][ 75]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.01:980][ 76]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.02:009][ 77]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.02:033][ 78]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.02:060][ 79]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.02:087][ 80]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.02:113][ 81]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.02:140][ 82]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.02:166][ 83]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.02:193][ 84]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.02:219][ 85]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.02:246][ 86]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.02:273][ 87]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.02:299][ 88]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.02:325][ 89]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.02:350][ 90]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.02:376][ 91]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.02:403][ 92]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.02:430][ 93]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.02:454][ 94]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.02:480][ 95]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.02:506][ 96]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.02:531][ 97]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.02:557][ 98]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.02:583][ 99]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.02:609][100]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.02:635][101]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.02:662][102]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.02:687][103]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.02:713][104]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.02:739][105]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.02:765][106]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.02:792][107]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.02:820][108]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.02:847][109]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.02:873][110]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.02:899][111]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.02:925][112]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.02:951][113]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.02:976][114]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.03:002][115]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.03:030][116]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.03:059][117]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.03:082][118]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.03:109][119]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.03:133][120]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.03:160][121]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.03:184][122]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.03:210][123]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.03:235][124]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.03:261][125]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.03:287][126]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.03:312][127]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.03:338][128]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.03:364][129]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.03:391][130]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.03:415][131]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.03:441][132]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.03:467][133]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.03:494][134]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.03:520][135]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.03:546][136]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.03:572][137]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.03:600][138]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.03:626][139]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.03:657][140]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.05:530][210]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.05:554][211]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.05:581][212]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.05:610][213]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.05:634][214]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.05:659][215]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.05:682][216]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.05:707][217]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.05:732][218]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.05:758][219]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.05:781][220]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.05:806][221]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.05:831][222]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.05:856][223]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.05:881][224]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.05:905][225]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.05:930][226]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.05:955][227]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.05:980][228]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.06:008][229]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.06:032][230]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.06:060][231]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.06:089][232]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.06:112][233]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.06:139][234]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.06:165][235]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.06:191][236]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.06:219][237]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.06:247][238]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.06:272][239]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.06:300][240]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.06:325][241]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.06:351][242]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.06:379][243]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.06:405][244]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.06:430][245]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.06:456][246]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.06:482][247]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.06:508][248]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.06:534][249]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.06:560][250]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.06:586][251]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.06:613][252]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.06:639][253]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.06:664][254]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.06:692][255]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.06:720][256]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.06:744][257]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.06:770][258]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.06:797][259]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.06:823][260]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.06:849][261]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.06:876][262]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.06:902][263]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.06:930][264]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.06:958][265]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.06:982][266]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.07:009][267]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.07:035][268]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.07:062][269]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.07:090][270]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.07:115][271]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.07:141][272]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.07:170][273]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.07:196][274]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.07:224][275]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.07:251][276]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.07:277][277]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.07:304][278]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.07:331][279]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.07:359][280]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.07:386][281]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.07:413][282]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.07:440][283]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.07:469][284]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.07:494][285]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.07:522][286]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.07:551][287]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.07:579][288]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.07:610][289]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.07:633][290]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.07:670][291]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.07:690][292]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.07:716][293]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.07:742][294]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.07:770][295]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.07:797][296]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.07:824][297]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.07:851][298]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.07:878][299]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.07:905][300]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.07:941][301]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.07:961][302]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.07:987][303]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.08:014][304]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.08:051][305]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.08:083][306]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.08:104][307]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.08:125][308]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.08:151][309]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.08:177][310]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.08:205][311]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.08:233][312]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.08:259][313]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.08:286][314]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.08:314][315]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.08:340][316]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.08:368][317]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.08:395][318]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.08:423][319]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.08:450][320]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.08:477][321]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.08:504][322]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.08:532][323]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.08:560][324]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.08:590][325]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.08:616][326]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.08:644][327]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.08:671][328]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.08:699][329]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.08:725][330]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.08:752][331]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.08:780][332]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.08:809][333]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.08:834][334]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.08:861][335]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.08:890][336]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.08:917][337]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.08:945][338]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.08:972][339]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.09:000][340]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.09:029][341]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.09:056][342]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.09:083][343]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.09:110][344]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.09:138][345]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.09:165][346]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.09:193][347]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.09:220][348]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.09:249][349]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.09:275][350]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.09:303][351]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.09:330][352]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.09:358][353]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.09:384][354]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.09:412][355]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.09:441][356]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.09:470][357]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.09:495][358]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.09:522][359]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.09:549][360]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.09:576][361]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.09:603][362]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.09:630][363]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.09:657][364]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.09:684][365]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.09:711][366]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.09:739][367]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.09:765][368]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.09:792][369]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.09:820][370]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.09:846][371]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.09:873][372]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.09:900][373]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.09:927][374]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.09:954][375]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.09:980][376]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.10:009][377]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.10:034][378]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.10:061][379]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.10:090][380]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.10:113][381]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.10:140][382]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.10:166][383]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.10:193][384]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.10:220][385]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.10:250][386]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.10:275][387]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.10:301][388]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.10:328][389]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.10:355][390]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.10:383][391]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.10:410][392]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.10:436][393]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.10:464][394]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.10:493][395]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.10:520][396]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.10:545][397]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.10:572][398]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.10:599][399]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.10:626][400]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.10:655][401]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.10:681][402]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.10:711][403]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.10:735][404]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.10:762][405]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.10:790][406]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.10:820][407]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.10:844][408]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.10:872][409]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.10:900][410]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.10:928][411]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.10:953][412]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.10:980][413]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.11:009][414]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.11:034][415]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.11:062][416]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.11:090][417]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.11:118][418]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.11:145][419]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.11:172][420]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.11:200][421]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.11:228][422]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.11:254][423]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.11:281][424]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.11:309][425]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.11:337][426]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.11:365][427]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.11:392][428]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.11:420][429]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.11:450][430]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.11:474][431]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.11:501][432]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.11:530][433]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.11:557][434]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.11:584][435]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.11:612][436]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.11:640][437]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.11:667][438]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.11:695][439]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.11:723][440]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.11:750][441]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.11:776][442]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.11:804][443]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.11:830][444]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.11:858][445]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.11:884][446]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.11:911][447]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.11:940][448]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.11:968][449]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.11:993][450]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.12:020][451]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.12:050][452]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.12:075][453]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.12:103][454]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.12:130][455]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.12:159][456]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.12:185][457]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.12:212][458]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.12:240][459]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.12:269][460]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.12:298][461]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.12:324][462]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.12:351][463]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.12:379][464]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.12:410][465]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.12:435][466]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.12:462][467]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.12:491][468]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.12:515][469]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.12:543][470]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.12:566][471]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.12:592][472]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.12:620][473]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.12:646][474]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.12:673][475]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.12:701][476]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.12:729][477]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.12:754][478]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.12:782][479]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.12:811][480]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.12:839][481]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.12:866][482]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.12:894][483]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.12:921][484]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.12:951][485]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.12:977][486]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.13:004][487]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.13:032][488]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.13:060][489]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.13:089][490]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.13:115][491]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.13:142][492]LogBlueprintUserMessages: [HealthStats] Health100.0
+[2018.01.18-23.11.13:171][493]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.13:197][494]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.13:226][495]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.13:253][496]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.13:280][497]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.13:307][498]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.13:335][499]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.13:361][500]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.13:390][501]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.13:414][502]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.13:441][503]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.13:470][504]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.13:495][505]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.13:522][506]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.13:550][507]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.13:575][508]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.13:601][509]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.13:628][510]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.13:656][511]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.13:682][512]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.13:710][513]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.13:740][514]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.13:764][515]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.13:791][516]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.13:818][517]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.13:845][518]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.13:871][519]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.13:900][520]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.13:925][521]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.13:951][522]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.13:982][523]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.14:007][524]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.14:032][525]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.14:060][526]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.14:086][527]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.14:112][528]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.14:140][529]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.14:167][530]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.14:193][531]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.14:220][532]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.14:249][533]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.14:276][534]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.14:303][535]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.14:330][536]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.14:358][537]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.14:386][538]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.14:413][539]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.14:440][540]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.14:467][541]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.14:498][542]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.14:522][543]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.14:549][544]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.14:576][545]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.14:603][546]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.14:630][547]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.14:658][548]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.14:685][549]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.14:713][550]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.14:741][551]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.14:766][552]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.14:792][553]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.14:820][554]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.14:847][555]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.14:880][556]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.14:904][557]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.14:935][558]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.14:960][559]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.14:984][560]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.15:010][561]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.15:034][562]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.15:060][563]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.15:087][564]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.15:113][565]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.15:149][566]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.15:174][567]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.15:199][568]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.15:223][569]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.15:250][570]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.15:275][571]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.15:302][572]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.15:331][573]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.15:371][574]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.15:395][575]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.15:420][576]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.15:444][577]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.15:469][578]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.15:493][579]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.15:517][580]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.15:542][581]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.15:569][582]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.15:599][583]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.15:622][584]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.15:647][585]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.15:674][586]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.18:102][678]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.18:129][679]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.18:154][680]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.18:180][681]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.18:207][682]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.18:233][683]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.18:260][684]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.18:286][685]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.18:313][686]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.18:340][687]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.18:366][688]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.18:390][689]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.18:416][690]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.18:442][691]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.18:471][692]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.18:496][693]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.18:522][694]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.18:549][695]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.18:574][696]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.18:600][697]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.18:626][698]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.18:652][699]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.18:680][700]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.18:706][701]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.18:730][702]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.18:756][703]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.18:783][704]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.18:810][705]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.18:838][706]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.18:863][707]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.18:890][708]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.18:917][709]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.18:943][710]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.18:970][711]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.18:996][712]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.19:022][713]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.19:049][714]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.19:076][715]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.19:102][716]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.19:129][717]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.19:156][718]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.19:182][719]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.19:210][720]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.19:237][721]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.19:263][722]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.19:290][723]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.19:318][724]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.19:344][725]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.19:370][726]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.19:396][727]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.19:423][728]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.19:449][729]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.19:476][730]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.19:502][731]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.19:530][732]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.19:558][733]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.19:584][734]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.19:610][735]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.19:636][736]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.19:662][737]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.19:691][738]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.19:715][739]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.19:741][740]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.19:769][741]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.19:795][742]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.19:820][743]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.19:846][744]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.19:872][745]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.19:899][746]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.19:925][747]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.19:952][748]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.19:980][749]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.20:006][750]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.20:032][751]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.20:059][752]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.20:086][753]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.20:112][754]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.20:140][755]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.20:166][756]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.20:192][757]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.20:220][758]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.20:246][759]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.20:272][760]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.20:300][761]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.20:326][762]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.20:353][763]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.20:380][764]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.20:409][765]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.20:433][766]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.20:460][767]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.20:486][768]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.20:513][769]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.20:540][770]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.20:567][771]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.20:593][772]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.20:620][773]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.20:646][774]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.20:673][775]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.20:700][776]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.20:726][777]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.20:753][778]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.20:780][779]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.20:805][780]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.20:831][781]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.20:859][782]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.20:884][783]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.20:910][784]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.20:936][785]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.20:963][786]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.20:989][787]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.21:015][788]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.21:042][789]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.21:070][790]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.21:096][791]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.21:122][792]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.21:150][793]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.21:177][794]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.21:204][795]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.21:231][796]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.21:259][797]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.21:284][798]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.21:310][799]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.21:340][800]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.21:365][801]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.21:391][802]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.21:421][803]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.21:446][804]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.21:473][805]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.21:499][806]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.21:526][807]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.21:553][808]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.21:581][809]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.21:610][810]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.21:636][811]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.21:663][812]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.21:692][813]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.21:719][814]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.21:745][815]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.21:773][816]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.21:801][817]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.21:830][818]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.21:858][819]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.21:883][820]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.21:911][821]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.21:944][822]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.21:975][823]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.22:000][824]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.22:025][825]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.22:051][826]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.22:077][827]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.22:104][828]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.22:131][829]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.22:159][830]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.22:194][831]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.22:219][832]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.22:245][833]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.22:271][834]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.22:300][835]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.22:325][836]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.22:354][837]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.22:381][838]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.22:410][839]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.22:439][840]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.22:465][841]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.22:505][842]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.22:533][843]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.22:556][844]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.22:584][845]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.22:609][846]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.22:635][847]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.22:661][848]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.22:689][849]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.22:717][850]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.22:744][851]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.22:772][852]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.22:800][853]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.22:828][854]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.22:855][855]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.22:882][856]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.22:910][857]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.22:940][858]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.22:974][859]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.23:001][860]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.23:030][861]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.23:059][862]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.23:085][863]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.23:113][864]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.23:140][865]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.23:166][866]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.23:194][867]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.23:220][868]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.23:250][869]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.23:275][870]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.23:301][871]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.23:330][872]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.23:356][873]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.23:384][874]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.23:410][875]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.23:436][876]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.23:462][877]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.23:492][878]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.23:520][879]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.23:547][880]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.23:572][881]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.23:598][882]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.23:624][883]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.23:651][884]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.23:679][885]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.23:706][886]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.23:733][887]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.23:760][888]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.23:789][889]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.23:815][890]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.23:842][891]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.23:869][892]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.23:898][893]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.23:924][894]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.23:951][895]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.23:980][896]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.24:005][897]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.24:031][898]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.24:061][899]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.24:087][900]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.24:113][901]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.24:140][902]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.24:168][903]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.24:193][904]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.24:220][905]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.24:247][906]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.24:275][907]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.24:301][908]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.24:330][909]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.24:356][910]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.24:383][911]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.24:409][912]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.24:438][913]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.24:463][914]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.24:491][915]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.24:518][916]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.24:545][917]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.24:571][918]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.24:599][919]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.24:625][920]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.24:651][921]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.24:679][922]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.24:705][923]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.24:731][924]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.24:757][925]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.24:784][926]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.24:811][927]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.24:839][928]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.24:865][929]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.24:891][930]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.24:920][931]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.24:946][932]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.24:972][933]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.24:999][934]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.25:025][935]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.25:051][936]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.25:078][937]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.25:103][938]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.25:130][939]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.25:156][940]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.25:183][941]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.25:210][942]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.25:239][943]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.25:263][944]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.25:290][945]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.25:319][946]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.25:344][947]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.25:370][948]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.25:399][949]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.25:425][950]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.25:451][951]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.25:478][952]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.25:503][953]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.25:531][954]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.25:559][955]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.25:584][956]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.25:610][957]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.25:637][958]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.25:663][959]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.25:692][960]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.25:720][961]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.25:747][962]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.25:773][963]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.25:799][964]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.25:828][965]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.25:851][966]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.25:877][967]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.25:903][968]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.25:930][969]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.25:956][970]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.25:982][971]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.26:009][972]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.26:035][973]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.26:062][974]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.26:090][975]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.26:116][976]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.26:143][977]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.26:169][978]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.26:195][979]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.26:222][980]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.26:250][981]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.26:276][982]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.26:302][983]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.26:330][984]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.26:356][985]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.26:382][986]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.26:410][987]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.26:436][988]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.26:463][989]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.26:490][990]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.26:517][991]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.26:544][992]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.26:570][993]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.26:596][994]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.26:622][995]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.26:650][996]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.26:676][997]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.26:702][998]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.26:730][999]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.26:758][  0]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.26:784][  1]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.26:810][  2]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.26:839][  3]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.26:863][  4]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.26:889][  5]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.26:918][  6]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.26:943][  7]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.26:971][  8]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.26:999][  9]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.27:023][ 10]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.27:053][ 11]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.27:079][ 12]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.27:106][ 13]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.27:132][ 14]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.27:160][ 15]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.27:189][ 16]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.27:215][ 17]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.27:242][ 18]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.27:269][ 19]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.27:296][ 20]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.27:323][ 21]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.27:350][ 22]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.27:376][ 23]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.27:402][ 24]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.27:429][ 25]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.27:456][ 26]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.27:481][ 27]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.27:509][ 28]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.27:533][ 29]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.27:560][ 30]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.27:590][ 31]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.27:613][ 32]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.27:640][ 33]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.27:668][ 34]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.27:693][ 35]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.27:721][ 36]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.27:749][ 37]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.27:773][ 38]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.27:799][ 39]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.27:826][ 40]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.27:852][ 41]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.27:878][ 42]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.27:904][ 43]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.27:930][ 44]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.27:956][ 45]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.27:982][ 46]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.28:008][ 47]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.28:034][ 48]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.28:060][ 49]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.28:086][ 50]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.28:112][ 51]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.28:139][ 52]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.28:165][ 53]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.28:191][ 54]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.28:216][ 55]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.28:242][ 56]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.28:268][ 57]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.28:294][ 58]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.28:320][ 59]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.28:346][ 60]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.28:372][ 61]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.28:399][ 62]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.28:426][ 63]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.28:452][ 64]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.28:479][ 65]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.28:505][ 66]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.28:531][ 67]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.28:559][ 68]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.28:583][ 69]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.28:609][ 70]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.28:635][ 71]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.28:661][ 72]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.28:690][ 73]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.28:712][ 74]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.28:740][ 75]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.33:733][271]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.33:759][272]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.33:783][273]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.33:809][274]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.33:834][275]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.33:860][276]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.33:885][277]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.33:910][278]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.33:935][279]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.33:961][280]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.33:989][281]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.34:014][282]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.34:041][283]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.34:069][284]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.34:094][285]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.34:121][286]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.34:149][287]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.34:176][288]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.34:203][289]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.34:230][290]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.34:259][291]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.34:285][292]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.34:312][293]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.34:340][294]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.34:369][295]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.34:394][296]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.34:421][297]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.34:449][298]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.34:476][299]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.34:503][300]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.34:530][301]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.34:557][302]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.34:584][303]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.34:611][304]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.34:639][305]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.34:666][306]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.34:693][307]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.34:721][308]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.34:750][309]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.34:776][310]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.34:804][311]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.34:831][312]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.34:859][313]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.34:886][314]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.34:913][315]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.34:941][316]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.34:970][317]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.34:999][318]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.35:024][319]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.35:052][320]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.35:079][321]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.35:106][322]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.35:134][323]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.35:162][324]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.35:190][325]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.35:217][326]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.35:245][327]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.35:272][328]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.35:300][329]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.35:329][330]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.35:354][331]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.35:381][332]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.35:409][333]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.35:435][334]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.35:462][335]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.35:491][336]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.35:520][337]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.35:546][338]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.35:573][339]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.35:599][340]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.35:626][341]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.35:653][342]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.35:681][343]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.35:709][344]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.35:734][345]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.35:760][346]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.35:787][347]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.35:813][348]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.35:840][349]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.35:866][350]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.35:893][351]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.35:920][352]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.35:946][353]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.35:982][354]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.36:007][355]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.36:032][356]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.36:058][357]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.36:083][358]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.36:109][359]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.36:134][360]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.36:159][361]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.36:184][362]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.36:215][363]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.36:240][364]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.36:266][365]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.36:291][366]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.36:316][367]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.36:341][368]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.36:368][369]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.36:393][370]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.36:420][371]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.36:450][372]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.36:474][373]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.36:500][374]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.36:526][375]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.36:552][376]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.36:580][377]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.36:610][378]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.36:634][379]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.36:674][380]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.36:700][381]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.36:725][382]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.36:750][383]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.36:777][384]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.36:802][385]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.36:827][386]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.36:852][387]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.36:878][388]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.36:903][389]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.36:930][390]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.36:956][391]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.36:983][392]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.37:010][393]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.37:036][394]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.37:063][395]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.37:091][396]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.37:119][397]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.37:151][398]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.37:177][399]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.37:203][400]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.37:231][401]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.37:256][402]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.37:283][403]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.37:311][404]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.37:339][405]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.37:364][406]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.37:390][407]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.37:416][408]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.37:443][409]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.37:470][410]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.37:497][411]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.37:522][412]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.37:549][413]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.37:575][414]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.37:602][415]LogBlueprintUserMessages: [HealthStats] Health37.456078
+[2018.01.18-23.11.41:948][539]LogEngine: All Windows Closed
+[2018.01.18-23.11.41:948][539]LogWindows: FPlatformMisc::RequestExit(0)
+[2018.01.18-23.11.42:556][540]LogExit: Preparing to exit.
+[2018.01.18-23.11.42:595][540]LogMoviePlayer: Shutting down movie player
+[2018.01.18-23.11.42:865][540]LogExit: Game engine shut down
+[2018.01.18-23.11.42:950][540]LogExit: Object subsystem successfully closed.
+[2018.01.18-23.11.42:964][540]LogD3D11RHI: Shutdown
+[2018.01.18-23.11.42:964][540]LogD3D11RHI: CleanupD3DDevice
+[2018.01.18-23.11.42:966][540]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.01.18-23.11.42:976][540]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (312)
+[2018.01.18-23.11.42:976][540]LogModuleManager: Shutting down and abandoning module SequenceRecorder (310)
+[2018.01.18-23.11.42:976][540]LogModuleManager: Shutting down and abandoning module AutomationController (308)
+[2018.01.18-23.11.42:976][540]LogModuleManager: Shutting down and abandoning module AutomationWorker (306)
+[2018.01.18-23.11.42:976][540]LogModuleManager: Shutting down and abandoning module AIModule (304)
+[2018.01.18-23.11.42:976][540]LogModuleManager: Shutting down and abandoning module GameplayDebugger (303)
+[2018.01.18-23.11.42:976][540]LogModuleManager: Shutting down and abandoning module AITestSuite (301)
+[2018.01.18-23.11.42:976][540]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (298)
+[2018.01.18-23.11.42:976][540]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (296)
+[2018.01.18-23.11.42:976][540]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (294)
+[2018.01.18-23.11.42:976][540]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (292)
+[2018.01.18-23.11.42:976][540]LogModuleManager: Shutting down and abandoning module CharacterAI (290)
+[2018.01.18-23.11.42:976][540]LogModuleManager: Shutting down and abandoning module SessionServices (288)
+[2018.01.18-23.11.42:977][540]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (286)
+[2018.01.18-23.11.42:977][540]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (284)
+[2018.01.18-23.11.42:977][540]LogModuleManager: Shutting down and abandoning module MovieScene (282)
+[2018.01.18-23.11.42:977][540]LogModuleManager: Shutting down and abandoning module GeometryCache (280)
+[2018.01.18-23.11.42:977][540]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (279)
+[2018.01.18-23.11.42:977][540]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (276)
+[2018.01.18-23.11.42:977][540]LogModuleManager: Shutting down and abandoning module PortalServices (274)
+[2018.01.18-23.11.42:977][540]LogModuleManager: Shutting down and abandoning module PortalRpc (272)
+[2018.01.18-23.11.42:977][540]LogModuleManager: Shutting down and abandoning module MessagingRpc (270)
+[2018.01.18-23.11.42:977][540]LogModuleManager: Shutting down and abandoning module ProfilerService (268)
+[2018.01.18-23.11.43:205][540]LogModuleManager: Shutting down and abandoning module TaskGraph (266)
+[2018.01.18-23.11.43:205][540]LogModuleManager: Shutting down and abandoning module SteamVRController (264)
+[2018.01.18-23.11.43:205][540]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (262)
+[2018.01.18-23.11.43:205][540]LogModuleManager: Shutting down and abandoning module OculusInput (260)
+[2018.01.18-23.11.43:205][540]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (258)
+[2018.01.18-23.11.43:205][540]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (256)
+[2018.01.18-23.11.43:205][540]LogModuleManager: Shutting down and abandoning module CableComponent (254)
+[2018.01.18-23.11.43:205][540]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (252)
+[2018.01.18-23.11.43:205][540]LogModuleManager: Shutting down and abandoning module AndroidPermission (250)
+[2018.01.18-23.11.43:205][540]LogModuleManager: Shutting down and abandoning module ActorSequence (246)
+[2018.01.18-23.11.43:205][540]LogModuleManager: Shutting down and abandoning module MediaCompositing (244)
+[2018.01.18-23.11.43:205][540]LogModuleManager: Shutting down and abandoning module HTML5Networking (242)
+[2018.01.18-23.11.43:206][540]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (240)
+[2018.01.18-23.11.43:206][540]LogModuleManager: Shutting down and abandoning module HotReload (239)
+[2018.01.18-23.11.43:206][540]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (236)
+[2018.01.18-23.11.43:206][540]LogModuleManager: Shutting down and abandoning module UObjectPlugin (234)
+[2018.01.18-23.11.43:206][540]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (232)
+[2018.01.18-23.11.43:206][540]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (230)
+[2018.01.18-23.11.43:206][540]LogModuleManager: Shutting down and abandoning module SourceControl (229)
+[2018.01.18-23.11.43:206][540]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (226)
+[2018.01.18-23.11.43:206][540]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (224)
+[2018.01.18-23.11.43:206][540]LogModuleManager: Shutting down and abandoning module PhysXVehicles (222)
+[2018.01.18-23.11.43:206][540]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (220)
+[2018.01.18-23.11.43:206][540]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (218)
+[2018.01.18-23.11.43:206][540]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (216)
+[2018.01.18-23.11.43:206][540]LogModuleManager: Shutting down and abandoning module UdpMessaging (214)
+[2018.01.18-23.11.43:306][540]LogModuleManager: Shutting down and abandoning module TcpMessaging (212)
+[2018.01.18-23.11.43:751][540]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (210)
+[2018.01.18-23.11.43:752][540]LogModuleManager: Shutting down and abandoning module FacialAnimation (208)
+[2018.01.18-23.11.43:752][540]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (206)
+[2018.01.18-23.11.43:752][540]LogModuleManager: Shutting down and abandoning module GraphEditor (205)
+[2018.01.18-23.11.43:752][540]LogModuleManager: Shutting down and abandoning module ContentBrowser (203)
+[2018.01.18-23.11.43:752][540]LogModuleManager: Shutting down and abandoning module CollectionManager (202)
+[2018.01.18-23.11.43:752][540]LogDirectoryWatcher: A directory notification for 'P:/LostReality/LostReality/Content/Collections/' was aborted.
+[2018.01.18-23.11.43:752][540]LogDirectoryWatcher: A directory notification for 'P:/LostReality/LostReality/Content/Developers/Я/Collections/' was aborted.
+[2018.01.18-23.11.43:752][540]LogDirectoryWatcher: A directory notification for 'P:/LostReality/LostReality/Saved/Collections/' was aborted.
+[2018.01.18-23.11.43:752][540]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (201)
+[2018.01.18-23.11.43:753][540]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (196)
+[2018.01.18-23.11.43:753][540]LogModuleManager: Shutting down and abandoning module Paper2D (194)
+[2018.01.18-23.11.43:753][540]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (192)
+[2018.01.18-23.11.43:753][540]LogModuleManager: Shutting down and abandoning module WmfMedia (190)
+[2018.01.18-23.11.43:753][540]LogModuleManager: Shutting down and abandoning module ImgMedia (188)
+[2018.01.18-23.11.43:753][540]LogModuleManager: Shutting down and abandoning module PacketHandler (186)
+[2018.01.18-23.11.43:753][540]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (184)
+[2018.01.18-23.11.43:754][540]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (182)
+[2018.01.18-23.11.43:754][540]LogModuleManager: Shutting down and abandoning module MediaAssets (180)
+[2018.01.18-23.11.43:754][540]LogModuleManager: Shutting down and abandoning module Media (179)
+[2018.01.18-23.11.43:759][540]LogModuleManager: Shutting down and abandoning module Overlay (176)
+[2018.01.18-23.11.43:759][540]LogModuleManager: Shutting down and abandoning module OverlayEditor (175)
+[2018.01.18-23.11.43:759][540]LogModuleManager: Shutting down and abandoning module VREditor (172)
+[2018.01.18-23.11.43:759][540]LogModuleManager: Shutting down and abandoning module StringTableEditor (170)
+[2018.01.18-23.11.43:759][540]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (168)
+[2018.01.18-23.11.43:759][540]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (166)
+[2018.01.18-23.11.43:759][540]LogModuleManager: Shutting down and abandoning module FunctionalTesting (164)
+[2018.01.18-23.11.43:759][540]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (162)
+[2018.01.18-23.11.43:759][540]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (161)
+[2018.01.18-23.11.43:759][540]LogModuleManager: Shutting down and abandoning module UMG (158)
+[2018.01.18-23.11.43:759][540]LogModuleManager: Shutting down and abandoning module UMGEditor (157)
+[2018.01.18-23.11.43:759][540]LogModuleManager: Shutting down and abandoning module Sequencer (156)
+[2018.01.18-23.11.43:759][540]LogModuleManager: Shutting down and abandoning module MessageLog (153)
+[2018.01.18-23.11.43:759][540]LogModuleManager: Shutting down and abandoning module SlateReflector (148)
+[2018.01.18-23.11.43:760][540]LogModuleManager: Shutting down and abandoning module Slate (146)
+[2018.01.18-23.11.43:760][540]LogModuleManager: Shutting down and abandoning module EditorStyle (144)
+[2018.01.18-23.11.43:762][540]LogModuleManager: Shutting down and abandoning module MRMesh (142)
+[2018.01.18-23.11.43:762][540]LogModuleManager: Shutting down and abandoning module Messaging (140)
+[2018.01.18-23.11.43:762][540]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (138)
+[2018.01.18-23.11.43:762][540]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (136)
+[2018.01.18-23.11.43:762][540]LogModuleManager: Shutting down and abandoning module XAudio2 (134)
+[2018.01.18-23.11.43:762][540]LogModuleManager: Shutting down and abandoning module Networking (132)
+[2018.01.18-23.11.43:762][540]LogModuleManager: Shutting down and abandoning module Core (128)
+[2018.01.18-23.11.43:762][540]LogModuleManager: Shutting down and abandoning module LevelSequence (126)
+[2018.01.18-23.11.43:762][540]LogModuleManager: Shutting down and abandoning module KismetCompiler (124)
+[2018.01.18-23.11.43:762][540]LogModuleManager: Shutting down and abandoning module MeshUtilities (122)
+[2018.01.18-23.11.43:762][540]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (121)
+[2018.01.18-23.11.43:762][540]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (120)
+[2018.01.18-23.11.43:762][540]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (119)
+[2018.01.18-23.11.43:762][540]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (117)
+[2018.01.18-23.11.43:762][540]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (115)
+[2018.01.18-23.11.43:762][540]LogModuleManager: Shutting down and abandoning module MaterialBaking (111)
+[2018.01.18-23.11.43:762][540]LogModuleManager: Shutting down and abandoning module DerivedDataCache (106)
+[2018.01.18-23.11.43:989][540]LogDerivedDataCache: Shutdown
+[2018.01.18-23.11.43:989][540]LogModuleManager: Shutting down and abandoning module TargetPlatform (104)
+[2018.01.18-23.11.43:989][540]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (103)
+[2018.01.18-23.11.43:989][540]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (101)
+[2018.01.18-23.11.43:989][540]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (99)
+[2018.01.18-23.11.43:989][540]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (97)
+[2018.01.18-23.11.43:989][540]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (95)
+[2018.01.18-23.11.43:989][540]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (93)
+[2018.01.18-23.11.43:989][540]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (91)
+[2018.01.18-23.11.43:989][540]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (89)
+[2018.01.18-23.11.43:989][540]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (87)
+[2018.01.18-23.11.43:989][540]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (85)
+[2018.01.18-23.11.43:989][540]LogModuleManager: Shutting down and abandoning module ImageWrapper (84)
+[2018.01.18-23.11.43:989][540]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (81)
+[2018.01.18-23.11.43:989][540]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (79)
+[2018.01.18-23.11.43:989][540]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (77)
+[2018.01.18-23.11.43:989][540]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (75)
+[2018.01.18-23.11.43:989][540]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (73)
+[2018.01.18-23.11.43:989][540]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (71)
+[2018.01.18-23.11.43:989][540]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (69)
+[2018.01.18-23.11.43:989][540]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (67)
+[2018.01.18-23.11.43:989][540]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.01.18-23.11.43:989][540]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.01.18-23.11.43:989][540]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.01.18-23.11.43:989][540]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.01.18-23.11.43:989][540]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.01.18-23.11.43:989][540]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.01.18-23.11.43:989][540]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.01.18-23.11.43:989][540]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.01.18-23.11.43:989][540]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.01.18-23.11.43:989][540]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.01.18-23.11.43:989][540]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.01.18-23.11.43:989][540]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.01.18-23.11.43:997][540]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.01.18-23.11.43:999][540]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.01.18-23.11.43:999][540]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.01.18-23.11.43:999][540]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.01.18-23.11.43:999][540]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.01.18-23.11.43:999][540]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.01.18-23.11.43:999][540]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.01.18-23.11.43:999][540]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.01.18-23.11.44:001][540]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.01.18-23.11.44:001][540]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.01.18-23.11.44:001][540]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.01.18-23.11.44:001][540]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.01.18-23.11.44:001][540]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.01.18-23.11.44:001][540]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.01.18-23.11.44:001][540]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.01.18-23.11.44:001][540]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.01.18-23.11.44:001][540]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.01.18-23.11.44:001][540]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.01.18-23.11.44:001][540]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.01.18-23.11.44:030][540]LogExit: Exiting.
+[2018.01.18-23.11.44:032][540]Log file closed, 01/19/18 02:11:44
